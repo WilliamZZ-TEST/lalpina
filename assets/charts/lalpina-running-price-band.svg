@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="410" viewBox="0 0 720 410" role="img" aria-labelledby="title desc">
+  <title id="title">Douyin running-shoe sales value by price band</title>
+  <desc id="desc">Price-band share of sales value for Douyin running-shoe top 5000 best sellers in 2023. The 100 to 400 yuan bands total 70.9 percent.</desc>
+  <rect width="720" height="410" fill="#ffffff"/>
+  <g stroke="#d9ddd3" stroke-width="1"><path d="M70 304.5H688M70 242.5H688M70 180.5H688M70 118.5H688M70 56.5H688"/></g>
+  <g fill="#59655b" font-family="Arial, sans-serif" font-size="12"><text x="58" y="308" text-anchor="end">0%</text><text x="58" y="246" text-anchor="end">10%</text><text x="58" y="184" text-anchor="end">20%</text><text x="58" y="122" text-anchor="end">30%</text><text x="58" y="60" text-anchor="end">40%</text><text x="70" y="28">2023 / best-selling TOP5000</text></g>
+  <path d="M70 305H688" stroke="#60715b" stroke-width="1"/>
+  <g fill="#1f3a2c"><rect x="102" y="277.7" width="60" height="27.3"/><rect x="198" y="111.6" width="60" height="193.4"/><rect x="294" y="58.9" width="60" height="246.1"/><rect x="390" y="209.5" width="60" height="95.5"/><rect x="486" y="270.9" width="60" height="34.1"/><rect x="582" y="281.4" width="60" height="23.6"/></g>
+  <g fill="#101712" font-family="Arial, sans-serif" font-size="12" font-weight="700"><text x="132" y="268" text-anchor="middle">4.4%</text><text x="228" y="102" text-anchor="middle">31.2%</text><text x="324" y="49" text-anchor="middle">39.7%</text><text x="420" y="200" text-anchor="middle">15.4%</text><text x="516" y="261" text-anchor="middle">5.5%</text><text x="612" y="272" text-anchor="middle">3.8%</text></g>
+  <g fill="#101712" font-family="Arial, sans-serif" font-size="12"><text x="132" y="332" text-anchor="middle">0-100</text><text x="228" y="332" text-anchor="middle">100-200</text><text x="324" y="332" text-anchor="middle">200-400</text><text x="420" y="332" text-anchor="middle">400-600</text><text x="516" y="332" text-anchor="middle">600-800</text><text x="612" y="332" text-anchor="middle">800+</text><text x="379" y="360" text-anchor="middle" fill="#59655b">Price band (CNY)</text></g>
+  <text x="70" y="388" fill="#59655b" font-family="Arial, sans-serif" font-size="11">All bars use solid fills; CNY 100-400 totals 70.9%.</text>
+</svg>
